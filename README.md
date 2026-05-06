@@ -8,4 +8,4 @@ The below output shows the implementation of Interval Halving for *f(x)= 10x^2 +
 
 You might find some fun convos in the comments [^1] .
 
-[^1]: The joke in the comments of code is about me calling the positive gradient curve for the minima; an upside-down curve, inadvertently when it is just a normally placed "cup". I go on to explain that a separate case has to be added if the upside down cup situation were to rise. The mathosaur can be cranky at times ;P  .
+[^1]: The joke in the comments of code is about me calling the positive gradient curve for the minima-an upside-down curve, inadvertently, when it is just a normally placed "cup". I go on to explain that a separate case has to be added if the upside-down cup situation were to rise. The mathosaur can be cranky at times ;P  .
